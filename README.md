@@ -1,34 +1,64 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    Personal Website
+</h1>
 
-## Getting Started
+<h4 align="center">
+  🚧 Personal website in development
+</h4>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/helderavila/personal-website">
 
-First, run the development server:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/helderavila/personal-website">
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+  <a href="https://github.com/helderavila/personal-website/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/helderavila/personal-website">
+  </a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <a href="https://github.com/helderavila/personal-website/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/helderavila/personal-website">
+  </a>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<p align="center">
+  <a href="#rocket-tecnologias">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">License</a>
+</p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<br>
 
-## Learn More
+## :rocket: Tecnologias
 
-To learn more about Next.js, take a look at the following resources:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [NextJS](https://nextjs.org)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 💻 Project
 
-## Deploy on Vercel
+My personal website.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔖 Layout
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+You can download the layout of project in format `.sketch` [Here](nope).
+
+## 🤔 Como run
+
+- Clone the repo `git clone https://github.com/helderavila/personal-website`;
+- Install packages: `yarn`;
+- Run the project: `yarn dev`.
+
+
+## :memo: Licença
+
+Distributed under the MIT License. See [LICENSE](LICENSE.md) for more information.
+
+---
+
+Feito com ♥ by Helder
+
